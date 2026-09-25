@@ -1,4 +1,4 @@
-# 📱 QR Code Scanner & Generator
+# 📱 QR Code Scanner & Generator App - Flutter
 
 A sleek, modern, cross-platform mobile application built with **Flutter & Dart** for high-speed QR code scanning and real-time QR code generation.
 
